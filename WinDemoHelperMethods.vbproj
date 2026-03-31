@@ -47,47 +47,47 @@
   <ItemGroup>
     <Reference Include="Atalasoft.dotImage, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Dicom, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Dicom.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Dicom.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Dwg, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Dwg.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Dwg.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Heif, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Heif.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Heif.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Jbig2, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Jbig2.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Jbig2.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Jpeg2000, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Jpeg2000.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Jpeg2000.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Lib, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Lib.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Lib.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Pdf, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Pdf.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Pdf.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.PdfReader, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.PdfReader.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.PdfReader.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Raw, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Raw.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Raw.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.Shared, Version=2026.2.0.48, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.Shared.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.Shared.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
